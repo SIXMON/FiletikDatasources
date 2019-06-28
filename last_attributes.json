@@ -1,0 +1,61 @@
+{
+	"attributes": [
+		
+	],
+	"options": [
+		
+	],
+	"values": [
+		
+	],
+	"mapping": [
+{"entity_id":"665","attribute_id":"121","store_id":"1","value":"2"},
+{"entity_id":"665","attribute_id":"121","store_id":"2","value":"2"},
+{"entity_id":"665","attribute_id":"121","store_id":"3","value":"2"},
+{"entity_id":"665","attribute_id":"121","store_id":"4","value":"2"},
+{"entity_id":"665","attribute_id":"121","store_id":"5","value":"2"},
+{"entity_id":"665","attribute_id":"121","store_id":"6","value":"2"},
+{"entity_id":"665","attribute_id":"133","store_id":"1","value":"93"},
+{"entity_id":"665","attribute_id":"133","store_id":"2","value":"93"},
+{"entity_id":"665","attribute_id":"133","store_id":"3","value":"93"},
+{"entity_id":"665","attribute_id":"133","store_id":"4","value":"93"},
+{"entity_id":"665","attribute_id":"133","store_id":"5","value":"93"},
+{"entity_id":"665","attribute_id":"133","store_id":"6","value":"93"},
+{"entity_id":"665","attribute_id":"137","store_id":"1","value":"41"},
+{"entity_id":"665","attribute_id":"137","store_id":"2","value":"41"},
+{"entity_id":"665","attribute_id":"137","store_id":"3","value":"41"},
+{"entity_id":"665","attribute_id":"137","store_id":"4","value":"41"},
+{"entity_id":"665","attribute_id":"137","store_id":"5","value":"41"},
+{"entity_id":"665","attribute_id":"137","store_id":"6","value":"41"},
+{"entity_id":"665","attribute_id":"149","store_id":"1","value":"27"},
+{"entity_id":"665","attribute_id":"149","store_id":"2","value":"27"},
+{"entity_id":"665","attribute_id":"149","store_id":"3","value":"27"},
+{"entity_id":"665","attribute_id":"149","store_id":"4","value":"27"},
+{"entity_id":"665","attribute_id":"149","store_id":"5","value":"27"},
+{"entity_id":"665","attribute_id":"149","store_id":"6","value":"27"},
+{"entity_id":"665","attribute_id":"150","store_id":"1","value":"49"},
+{"entity_id":"665","attribute_id":"150","store_id":"2","value":"49"},
+{"entity_id":"665","attribute_id":"150","store_id":"3","value":"49"},
+{"entity_id":"665","attribute_id":"150","store_id":"4","value":"49"},
+{"entity_id":"665","attribute_id":"150","store_id":"5","value":"49"},
+{"entity_id":"665","attribute_id":"150","store_id":"6","value":"49"},
+{"entity_id":"665","attribute_id":"158","store_id":"1","value":"68"},
+{"entity_id":"665","attribute_id":"158","store_id":"2","value":"68"},
+{"entity_id":"665","attribute_id":"158","store_id":"3","value":"68"},
+{"entity_id":"665","attribute_id":"158","store_id":"4","value":"68"},
+{"entity_id":"665","attribute_id":"158","store_id":"5","value":"68"},
+{"entity_id":"665","attribute_id":"158","store_id":"6","value":"68"},
+{"entity_id":"665","attribute_id":"183","store_id":"1","value":"70"},
+{"entity_id":"665","attribute_id":"183","store_id":"1","value":"83"},
+{"entity_id":"665","attribute_id":"183","store_id":"2","value":"70"},
+{"entity_id":"665","attribute_id":"183","store_id":"2","value":"83"},
+{"entity_id":"665","attribute_id":"183","store_id":"3","value":"70"},
+{"entity_id":"665","attribute_id":"183","store_id":"3","value":"83"},
+{"entity_id":"665","attribute_id":"183","store_id":"4","value":"70"},
+{"entity_id":"665","attribute_id":"183","store_id":"4","value":"83"},
+{"entity_id":"665","attribute_id":"183","store_id":"5","value":"70"},
+{"entity_id":"665","attribute_id":"183","store_id":"5","value":"83"},
+{"entity_id":"665","attribute_id":"183","store_id":"6","value":"70"},
+{"entity_id":"665","attribute_id":"183","store_id":"6","value":"83"}
+]
+}
